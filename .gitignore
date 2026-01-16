@@ -1,0 +1,26 @@
+# Large media files
+videos/
+images/*.mov
+images/*.mp4
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IDE/Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Claude Code local settings
+.claude/
+
+# Thumbnails
+Thumbs.db
+
+# Node (in case you add dependencies later)
+node_modules/
+npm-debug.log
