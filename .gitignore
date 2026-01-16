@@ -1,6 +1,6 @@
-# Large media files
-videos/
-images/
+# Large media files (keeping for now, using Git LFS)
+# videos/
+# images/
 
 # macOS
 .DS_Store
