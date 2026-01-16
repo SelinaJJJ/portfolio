@@ -1,7 +1,6 @@
 # Large media files
 videos/
-images/*.mov
-images/*.mp4
+images/
 
 # macOS
 .DS_Store
