@@ -23,3 +23,8 @@ Thumbs.db
 # Node (in case you add dependencies later)
 node_modules/
 npm-debug.log
+
+# Image files
+*.jpg
+*.jpg
+&.mov
