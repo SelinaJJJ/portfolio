@@ -1,7 +1,3 @@
-# Large media files (keeping for now, using Git LFS)
-# videos/
-# images/
-
 # macOS
 .DS_Store
 .AppleDouble
@@ -23,8 +19,3 @@ Thumbs.db
 # Node (in case you add dependencies later)
 node_modules/
 npm-debug.log
-
-# Image files
-*.jpg
-*.jpg
-*.mov
