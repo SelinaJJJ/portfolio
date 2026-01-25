@@ -3,6 +3,7 @@ FROM nginx:alpine
 # Copy all website files including images and videos
 COPY --chmod=644 index.html /usr/share/nginx/html/
 COPY --chmod=644 resume.pdf /usr/share/nginx/html/
+COPY --chmod=644 Econ590_Final_Project.pdf /usr/share/nginx/html/
 COPY --chmod=755 images/ /usr/share/nginx/html/images/
 COPY --chmod=755 videos/ /usr/share/nginx/html/videos/
 
